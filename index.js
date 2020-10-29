@@ -49,7 +49,7 @@ __**Command list**__
 > \`search\` > **\`search [title]\`**
 > \`skip\`, \`stop\`,  \`pause\`, \`resume\`
 > \`nowplaying\`, \`queue\`, \`volume\``)
-            .setFooter("©️ 2020 Zhycorp Nation", "https://api.zhycorp.xyz/assets/images/icon.jpg");
+            .setFooter("Made By Spexz");
         message.channel.send(helpembed);
     }
     if (command === "play" || command === "p") {
